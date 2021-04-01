@@ -1,0 +1,13 @@
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.exe
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.deps.json
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.runtimeconfig.json
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.runtimeconfig.dev.json
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.dll
+D:\test\Project\ExamProject1.0\ExamProject1.0\bin\Debug\netcoreapp3.1\ExamProject1.0.pdb
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.csprojAssemblyReference.cache
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.AssemblyInfoInputs.cache
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.AssemblyInfo.cs
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.csproj.CoreCompileInputs.cache
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.dll
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.pdb
+D:\test\Project\ExamProject1.0\ExamProject1.0\obj\Debug\netcoreapp3.1\ExamProject1.0.genruntimeconfig.cache
